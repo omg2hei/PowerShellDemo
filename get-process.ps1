@@ -1,0 +1,1 @@
+get-process | Out-File -filepath c:\process.txt
